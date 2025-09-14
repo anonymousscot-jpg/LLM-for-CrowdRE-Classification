@@ -39,7 +39,7 @@ Before running the notebooks, please ensure you have completed the following:
 
 ---
 
-## 🚀 Step-by-Step Experiment Workflow
+##  Step-by-Step Experiment Workflow
 
 The experiment is divided into three main notebooks. **Run them in order.**
 
