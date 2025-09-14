@@ -154,13 +154,3 @@ After running the classification:
 └── README.md
 ```
 
----
-
-## 📝 Citation
-
-If you use this repository in your research, please cite:
-*(Add your paper or project citation here)*
-
----
-
-Would you like me to also add **badges** (Python version, Colab link, License, etc.) at the top to make it look more professional for GitHub?
