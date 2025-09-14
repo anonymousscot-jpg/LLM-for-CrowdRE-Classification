@@ -1,0 +1,13 @@
+#Core data science and machine learning libraries
+pandas
+numpy
+scikit-learn
+nltk
+
+#Visualization libraries
+matplotlib
+seaborn
+
+#Ollama library for interacting with local LLMs
+ollama
+
