@@ -1,9 +1,8 @@
-````markdown
 # LLM-for-CrowdRE-Classification
 
-This repository provides Jupyter notebooks and resources to replicate experiments on **software requirement classification** using **Large Language Models (LLMs)**.  
+This repository provides Jupyter notebooks and resources to replicate experiments on **software requirement classification** using **Large Language Models (LLMs)**.
 
-The workflow includes categorizing LLMs, preparing requirement datasets, and running classification experiments either locally or in Google Colab.  
+The workflow includes categorizing LLMs, preparing requirement datasets, and running classification experiments either locally or in Google Colab.
 
 ---
 
@@ -12,10 +11,11 @@ The workflow includes categorizing LLMs, preparing requirement datasets, and run
 Before running the notebooks, please ensure you have completed the following:
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/anonymousscot-jpg/LLM-for-CrowdRE-Classification.git
    cd LLM-for-CrowdRE-Classification
-````
+   ```
 
 2. **Create and activate a Python virtual environment**
 
@@ -161,9 +161,6 @@ After running the classification:
 If you use this repository in your research, please cite:
 *(Add your paper or project citation here)*
 
-```
-
 ---
 
-Do you also want me to add **Google Colab launch badge** at the top so users can directly open the Colab notebook from your repo?
-```
+Would you like me to also add **badges** (Python version, Colab link, License, etc.) at the top to make it look more professional for GitHub?
