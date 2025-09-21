@@ -10,5 +10,6 @@
 - [Qwen-3](https://arxiv.org/pdf/2505.09388)  
 - [Qwen-2.5](https://arxiv.org/abs/2412.15115)  
 - [DeepSeek-R1](https://arxiv.org/abs/2501.12948)  
-- [DeepSeek-V3](https://arxiv.org/abs/2412.19437)  
+- [DeepSeek-V3](https://arxiv.org/abs/2412.19437)
+- [DeepSeek-V2](https://arxiv.org/abs/2405.04434)
 
