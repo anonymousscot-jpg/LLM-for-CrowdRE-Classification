@@ -1,13 +1,14 @@
-Gemma-3: https://doi.org/10.48550/arXiv.2503.19786
-Llama-3: https://arxiv.org/abs/2407.21783
-Llama-4: https://ai.meta.com/blog/llama-4-multimodal-intelligence/
-Mistral Mixtral-8x22B: https://mistral.ai/news/mixtral-8x22b
-Mistral Nemo: https://mistral.ai/news/mistral-nemo
-Mistral Small 3.1: https://mistral.ai/news/mistral-small-3-1
-Nemotron Super 49B v1.5: https://build.nvidia.com/nvidia/llama-3_3-nemotron-super-49b-v1_5/modelcard
-Nemotron Ultra 253B v1: https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
-Phi-4: https://arxiv.org/abs/2412.08905
-Qwen-3: https://arxiv.org/pdf/2505.09388
-Qwen-2.5: https://arxiv.org/abs/2412.15115
-DeepSeek-R1: https://arxiv.org/abs/2501.12948
-DeepSeek-V3: https://arxiv.org/abs/2412.19437
+- [Gemma-3](https://doi.org/10.48550/arXiv.2503.19786)  
+- [Llama-3](https://arxiv.org/abs/2407.21783)  
+- [Llama-4](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)  
+- [Mistral Mixtral-8x22B](https://mistral.ai/news/mixtral-8x22b)  
+- [Mistral Nemo](https://mistral.ai/news/mistral-nemo)  
+- [Mistral Small 3.1](https://mistral.ai/news/mistral-small-3-1)  
+- [Nemotron Super 49B v1.5](https://build.nvidia.com/nvidia/llama-3_3-nemotron-super-49b-v1_5/modelcard)  
+- [Nemotron Ultra 253B v1](https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1)  
+- [Phi-4](https://arxiv.org/abs/2412.08905)  
+- [Qwen-3](https://arxiv.org/pdf/2505.09388)  
+- [Qwen-2.5](https://arxiv.org/abs/2412.15115)  
+- [DeepSeek-R1](https://arxiv.org/abs/2501.12948)  
+- [DeepSeek-V3](https://arxiv.org/abs/2412.19437)  
+
